@@ -1,0 +1,1 @@
+SELECT * FROM db_mercadinho.tb_cliente;
